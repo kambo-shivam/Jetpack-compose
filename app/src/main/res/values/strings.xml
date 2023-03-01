@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">JComposeMaterial</string>
+
+    <string name="home">Home</string>
+    <string name="fav">FAV</string>
+    <string name="feed">FEED</string>
+    <string name="profile">PROFILE</string>
+</resources>
